@@ -21,3 +21,6 @@ The software calculates gelation temperature, adhesion and consistency values, G
 - Open the unzipped fold and click on POLYana software icon - "POLYana **.exe" (it takes some time to open... be patient please!);
 - Before using POLYana, click "Options" button and verify all the options. Then click "OK"; 
 - All your data must be save in ".txt" extension. Pay attention on this.
+
+# Notes:
+- Software in process of registration.
